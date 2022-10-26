@@ -1,0 +1,1 @@
+[{"id": 0, "type": "deposit", "amount": "$100.00", "date": "10/26/22", "time": "14:20", "description": "monies"}]
